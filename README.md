@@ -1,5 +1,5 @@
 # Nick Azurin
-I'm a developer of 🇵🇭 decent, born and raised in 🇦🇺, and currently working in Vancouver, 🇨🇦! 
+I'm a developer of Philippine decent, born and raised in Australia, and currently working in Vancouver, Canada! 
 
 ### Language Proficiences
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -12,5 +12,14 @@ I'm a developer of 🇵🇭 decent, born and raised in 🇦🇺, and currently w
 
 ### Version Control Proficiencies
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
  ### Design Proficiencies
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
+
+### [Resume](https://www.canva.com/design/DAE_zGQbPTg/6XH66gDLzwhQs6DPIZrVBw/view?utm_content=DAE_zGQbPTg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) | [LinkedIn](www.linkedin.com/in/nickazurin)
+
+#### Other Interests
+* Big time Audiophile
+* Working additionally as a Mastering Engineer
+* Aspiring Product Manager
+* Design enthusiast
