@@ -22,4 +22,4 @@ I'm a developer of Philippine decent, born and raised in Australia, and currentl
 * Big time Audiophile
 * Working additionally as a Mastering Engineer
 * Aspiring Product Manager
-* Design enthusiast
+* Architecture, Fashion and Interior Design Enthusiast
