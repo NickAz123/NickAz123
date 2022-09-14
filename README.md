@@ -16,7 +16,7 @@ I'm a developer of Philippine decent, born and raised in Australia, and currentl
  ### Design Proficiencies
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 
-### [Resume](https://www.canva.com/design/DAE_zGQbPTg/6XH66gDLzwhQs6DPIZrVBw/view?utm_content=DAE_zGQbPTg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) | [LinkedIn](www.linkedin.com/in/nickazurin)
+### [Resume](https://www.canva.com/design/DAFJ5w_ZgNc/TCYPgeU1Hp9QzJUWYm18OQ/view?utm_content=DAFJ5w_ZgNc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [LinkedIn](www.linkedin.com/in/nickazurin)
 
 #### Other Interests
 * Big time Audiophile
