@@ -21,5 +21,4 @@ I'm a developer of Philippine decent, born and raised in Australia, and currentl
 #### Other Interests
 * Big time Audiophile
 * Working additionally as a Mastering Engineer
-* Aspiring Product Manager
 * Architecture, Fashion and Interior Design Enthusiast
