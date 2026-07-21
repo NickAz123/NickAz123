@@ -15,4 +15,7 @@
 ### Version Control Proficiencies
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### Certifications
+####**AZ-900 Azure Fundamentals**
+
 ### [Resume](https://www.canva.com/design/DAFJ5w_ZgNc/TCYPgeU1Hp9QzJUWYm18OQ/view?utm_content=DAFJ5w_ZgNc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [LinkedIn](www.linkedin.com/in/nickazurin)
